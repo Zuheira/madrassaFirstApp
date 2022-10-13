@@ -5,8 +5,8 @@ export default function App() {
 	return (
                <View style={styles.container}>
 	               <Text>Zuheirahalymamad</Text>
-<Text>App devolper </Text>
-                      <statusBar style="auto"  />
+                       <Text>App devolper </Text>
+                       <statusBar style="auto"  />
 	       </View>
        );
 }
